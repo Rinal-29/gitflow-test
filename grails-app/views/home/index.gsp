@@ -11,7 +11,7 @@
     <title>Home Page</title>
 </head>
 <body>
-<h1>Home Pages</h1>
+<h1>Home Page Fixed in Release</h1>
 
 </body>
 </html>
