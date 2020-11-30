@@ -1,4 +1,4 @@
-<!doctype html>
+merge <!doctype html>
 <html>
 <head>
     <meta name="layout" content="main"/>
